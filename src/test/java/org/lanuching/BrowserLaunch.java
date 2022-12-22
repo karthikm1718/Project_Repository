@@ -20,7 +20,9 @@ public class BrowserLaunch extends BaseClass {
 		System.out.println(getTitle());
 		System.out.println(currentUrl());
 		takesScreenShot("facebook");
-     	quit();
+     	System.out.println("karthik");
+     	System.out.println("Request task");
+     	System.out.println("completed");
 	
 	
 	
